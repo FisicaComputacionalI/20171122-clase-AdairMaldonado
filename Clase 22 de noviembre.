@@ -1,0 +1,18 @@
+//Programa para calcular coseno.
+//Autor: Braian Adair Maldonado Luna
+//Creado: 22/11/2017 
+
+
+
+#include <iostream>
+#include <math.h>
+
+        using namespace std;
+                int main(){
+                float valor=0.15;
+                float coseno=cos(valor);
+
+cout << "Cos(0.15)= " << coseno << endl;
+
+return 0;
+                           }
